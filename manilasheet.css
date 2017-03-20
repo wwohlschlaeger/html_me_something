@@ -1,0 +1,43 @@
+.manila {
+  background-image: url("images/20161229_072130.jpg");
+  align: center;
+  font-family: Arial;
+}
+.header {
+  text-align: center;
+  color: yellow;
+  font-size: 50px;
+}
+a.cntr:link {
+  text-decoration: none;
+  text-align: center;
+  font-size: 16px;
+}
+a.lst:link {
+  text-decoration: none;
+  color: yellow;
+}
+a.lst:hover {
+  text-decoration: none;
+  color: red;
+}
+a.lst:active {
+  text-decoration: none;
+  color: yellow
+}
+li {
+  list-style-type: none;
+  text-align: center;
+  font-size: 30px;
+}
+ul {
+  text-align: center;
+}
+p {
+  color: yellow;
+  font-size: 20px;
+}
+img.imgcntr {
+  display: block;
+  marign: auto;
+}

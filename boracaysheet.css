@@ -1,0 +1,43 @@
+.boracay {
+  background-image: url("images/20161230_130705.jpg");
+  transform:scale(10%)
+  align: center;
+  font-family: Arial;
+}
+.header {
+  text-align: center;
+  color: yellow;
+  font-size: 50px;
+}
+a.lst:link {
+  text-decoration: none;
+  color: yellow;
+}
+a.lst:hover {
+  text-decoration: none;
+  color: red;
+}
+a.lst:active {
+  text-decoration: none;
+  color: orange
+}
+li {
+  list-style-type: none;
+  text-align: center;
+  font-size: 30px;
+}
+ul {
+  text-align: center;
+}
+p {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+}
+img.imgcntr {
+  display: block;
+  marign: auto;
+}
+video{
+  transform:rotate(90deg);
+}
